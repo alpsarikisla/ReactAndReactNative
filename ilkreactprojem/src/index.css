@@ -1,0 +1,31 @@
+
+body{
+    font-family: 'poppins';
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+
+}
+ul li{
+    padding: 10px;
+}
+.imageBackground
+{
+    height: 200px;
+    background-image: url(./images/4880206.jpg);
+}
+button{
+    padding: 0.5rem 1em;
+}
+span{
+    padding: 0.5em;
+    font-size: 1.5em;
+}
+.counter
+{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
