@@ -25,9 +25,8 @@ function App() {
       <div className="App">
         <h2>Bizim Veriler</h2>
           {products.map((data,i)=> (
-          <p>selam</p>
-        ))}
-      
+            <p>selam</p>
+          ))}
       </div>
       <div className='App'>
         <h2>Json Placeholder Veriler</h2>
